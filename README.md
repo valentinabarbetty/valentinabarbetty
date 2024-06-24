@@ -25,7 +25,8 @@ My name is Valentina Barbetty. I'm currently studying systems engineering and I'
 
 
 ##Some of my Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=valentinabarbetty&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/5f/62/91/5f62912ced80c3072c611efe6f67eb62.jpg">
 
