@@ -16,3 +16,9 @@ My name is Valentina Barbetty. I'm currently studying systems engineering and I'
 - 👩🏼‍💻 Learning: Always eager to learn new technologies and skills.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/valentina-barbetty/) or [Email](mailto:valentinabarbetty2@gmail.com)
 - 🙇🏼‍♀️ Fun fact: I love reading personal growth books in English.
+
+##My GitHub Statistics
+
+[![](https://raw.githubusercontent.com/valentinabarbetty/valentinabarbettya/master/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/valentinabarbetty/valentinabarbettya/master/profile-summary-card-output/jolly/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/valentinabarbetty/valentinabarbettya/master/profile-summary-card-output/jolly/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/valentinabarbetty/valentinabarbettya/master/profile-summary-card-output/jolly/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/valentinabarbetty/valentinabarbettya/master/profile-summary-card-output/jolly/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
