@@ -19,12 +19,14 @@ My name is Valentina Barbetty. I'm currently studying systems engineering and I'
 
 
 ##My GitHub Statistics
+<div>
+ 
 
 [![](https://raw.githubusercontent.com/valentinabarbetty/valentinabarbettya/master/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/valentinabarbetty/valentinabarbettya/master/profile-summary-card-output/jolly/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/valentinabarbetty/valentinabarbettya/master/profile-summary-card-output/jolly/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/valentinabarbetty/valentinabarbettya/master/profile-summary-card-output/jolly/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/valentinabarbetty/valentinabarbettya/master/profile-summary-card-output/jolly/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
+</div>
 ##Some of my Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=valentinabarbetty&column=3&margin-w=15&margin-h=15&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
