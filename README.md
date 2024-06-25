@@ -1,6 +1,6 @@
 ## Hi, I'm Valentina Barbetty 👋🏻👩🏼‍💻
 
-
+<img src="https://github.com/valentinabarbetty/valentinabarbetty/blob/main/Valentina%20Barbetty.png" alt="banner valentina">
 My name is Valentina Barbetty. I'm currently studying systems engineering and I'm passionate about full-stack development. Here's a bit about me:
 
 - 💪🏻 Working on: Deepening my knowledge in many areas of my career.
