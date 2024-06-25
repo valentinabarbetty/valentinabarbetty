@@ -11,10 +11,9 @@ My name is Valentina Barbetty. I'm currently studying systems engineering and I'
 
 ## Find me around the web 🌎:
 
-
-<div style="margin: 15px;">
+<div>
  - Get to know more about me <a href="https://valentinabarbetty.vercel.app/">Portfolio</a> 💻
-- Sharing updates on <a href="https://www.linkedin.com/in/valentina-barbetty/">LinkedIn</a> 💼
+ - Sharing updates on <a href="https://www.linkedin.com/in/valentina-barbetty/">LinkedIn</a> 💼
 </div>
 
 
