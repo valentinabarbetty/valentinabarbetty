@@ -19,8 +19,8 @@ My name is Valentina Barbetty. I'm currently studying systems engineering and I'
 - Get to know more about me <a href="https://valentinabarbetty.vercel.app/">Portfolio</a> 💻
 - Sharing updates on <a href="https://www.linkedin.com/in/valentina-barbetty/">LinkedIn</a> 💼
 
-
-<img align="center" alt="Coding" width="200" src="https://github.com/valentinabarbetty/valentinabarbetty/blob/main/quote.jpg">
+<div align=center>
+<img alt="Coding" width="200" src="https://github.com/valentinabarbetty/valentinabarbetty/blob/main/quote.jpg"></div>
 <h2 align="center">🖥️ Languages-Frameworks-Tools 🖥️</h2>
 <br/>
 <div align="center">
