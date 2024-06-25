@@ -2,12 +2,12 @@
 
 <img src="https://github.com/valentinabarbetty/valentinabarbetty/blob/main/Valentina%20Barbetty.png" alt="banner valentina">
 My name is Valentina Barbetty. I'm currently studying systems engineering and I'm passionate about full-stack development. Here's a bit about me:
-
+   <img align="right" alt="Coding" width="200" src="https://github.com/valentinabarbetty/valentinabarbetty/blob/main/ezgif-7-9b11aa3da7.gif?raw=true">
 - 💪🏻 Working on: Deepening my knowledge in many areas of my career.
 - 👩🏼‍💻 Learning: Always eager to learn new technologies and skills.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/valentina-barbetty/) or [Email](mailto:valentinabarbetty2@gmail.com)
 - 🙇🏼‍♀️ Fun fact: I love reading personal growth books in English.
-   <img align="right" alt="Coding" width="200" src="https://github.com/valentinabarbetty/valentinabarbetty/blob/main/ezgif-7-9b11aa3da7.gif?raw=true">
+
 ## Find me around the web 🌎:
 
 
