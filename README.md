@@ -10,7 +10,7 @@ My name is Valentina Barbetty. I'm currently studying systems engineering and I'
 ## Find me around the web 🌎:
 <div style="display: flex; align-items: center; margin-bottom: 50px;">
   <img align="left" width="150" height="150" src="https://github.com/valentinabarbetty/valentinabarbetty/blob/main/ezgif-7-9b11aa3da7.gif?raw=true" style="margin-right: 15px;">
-  <div>
+  <div margin-bottom: 50px;>
     - Get to know more about me <a href="https://valentinabarbetty.vercel.app/">Portfolio</a> 💻<br>
     - Sharing updates on <a href="https://www.linkedin.com/in/valentina-barbetty/">LinkedIn</a> 💼
   </div>
