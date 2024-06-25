@@ -1,4 +1,5 @@
-<div style:"align: right";>  ![](https://komarev.com/ghpvc/?username=valentinabarbetty&color=ff69b4)</div>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=valentinabarbetty&color=ff69b4" />
 
 ## Hi, I'm Valentina Barbetty 👋🏻👩🏼‍💻
 
