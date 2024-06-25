@@ -23,7 +23,7 @@ My name is Valentina Barbetty. I'm currently studying systems engineering and I'
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio,angular,react,bootstrap,mui,html,css,tailwind,threejs,unity" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript, docker,kubernetes,express,firebase,java,nodejs,mysql,kotlin,swift" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,docker,kubernetes,express,firebase,java,nodejs,mysql,kotlin,swift" />
     <img src="https://skillicons.dev/icons?i=blender,git,github,postman,figma,vercel" /><br>
 </div>
 
