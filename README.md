@@ -44,3 +44,5 @@ My name is Valentina Barbetty. I'm currently studying systems engineering and I'
 <hr/>
 
 <br/>
+
+<img src="https://github.com/valentinabarbetty/valentinabarbetty/blob/main/quote.jpg" alt="banner valentina">
