@@ -21,8 +21,8 @@ My name is Valentina Barbetty. I'm currently studying systems engineering and I'
 
 
 
-##My GitHub Statistics
-<div style="margin-top: 100px;">
+## My GitHub Statistics
+<div style="text-align: center;">
  
 
 [![](https://raw.githubusercontent.com/valentinabarbetty/valentinabarbettya/master/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -34,7 +34,6 @@ My name is Valentina Barbetty. I'm currently studying systems engineering and I'
 [![trophy](https://github-profile-trophy.vercel.app/?username=valentinabarbetty&column=3&margin-w=15&margin-h=15&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
 
- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/5f/62/91/5f62912ced80c3072c611efe6f67eb62.jpg">
 
 
 <h3 align="left">Connect with me:</h3>
