@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=valentinabarbetty.valentinabarbetty" />
 ## Hi, I'm Valentina Barbetty 👋🏻👩🏼‍💻
 
 <img src="https://github.com/valentinabarbetty/valentinabarbetty/blob/main/Valentina%20Barbetty.png" alt="banner valentina">
