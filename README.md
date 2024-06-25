@@ -8,7 +8,7 @@ My name is Valentina Barbetty. I'm currently studying systems engineering and I'
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/valentina-barbetty/) or [Email](mailto:valentinabarbetty2@gmail.com)
 - 🙇🏼‍♀️ Fun fact: I love reading personal growth books in English.
 ## Find me around the web 🌎:
-<img align="left" width="150" height="150" src="https://github.com/valentinabarbetty/valentinabarbetty/blob/main/ezgif-7-9b11aa3da7.gif?raw=true" style="margin-right: 15px; margin-bottom: 15px;">
+<img align="left" width="150" height="150" src="https://github.com/valentinabarbetty/valentinabarbetty/blob/main/ezgif-7-9b11aa3da7.gif?raw=true" style="margin-right: 15px; margin-bottom: 50px;">
 - Get to know more about me <a href="https://valentinabarbetty.vercel.app/">Portfolio</a> 💻
 - Sharing updates on <a href="https://www.linkedin.com/in/valentina-barbetty/">LinkedIn</a> 💼
 
