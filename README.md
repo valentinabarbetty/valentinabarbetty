@@ -12,7 +12,7 @@ My name is Valentina Barbetty. I'm currently studying systems engineering and I'
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/valentina-barbetty/) or [Email](mailto:valentinabarbetty2@gmail.com)
 - 🙇🏼‍♀️ Fun fact: I love reading personal growth books in English.
 
-<img align="center" alt="Coding" width="200" src="https://github.com/valentinabarbetty/valentinabarbetty/blob/main/quote.jpg">
+
 
 ## Find me around the web 🌎:
 
@@ -20,7 +20,7 @@ My name is Valentina Barbetty. I'm currently studying systems engineering and I'
 - Sharing updates on <a href="https://www.linkedin.com/in/valentina-barbetty/">LinkedIn</a> 💼
 
 
-
+<img align="center" alt="Coding" width="200" src="https://github.com/valentinabarbetty/valentinabarbetty/blob/main/quote.jpg">
 <h2 align="center">🖥️ Languages-Frameworks-Tools 🖥️</h2>
 <br/>
 <div align="center">
