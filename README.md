@@ -33,17 +33,8 @@ My name is Valentina Barbetty. I'm currently studying systems engineering and I'
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=valentinabarbetty)](https://git.io/streak-stats)
 
-##Some of my Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=valentinabarbetty&column=3&margin-w=15&margin-h=15&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/valentina-barbetty/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-
-</p>
 
 
 
