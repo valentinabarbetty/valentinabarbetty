@@ -21,8 +21,8 @@ My name is Valentina Barbetty. I'm currently studying systems engineering and I'
 
 
 
-## My GitHub Statistics
-<div style="text-align: center;">
+## My GitHub Statistics 📊:
+<div style="text-align: center;" justify-content:center;>
  
 
 [![](https://raw.githubusercontent.com/valentinabarbetty/valentinabarbettya/master/profile-summary-card-output/jolly/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
